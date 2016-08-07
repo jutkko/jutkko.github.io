@@ -7,7 +7,7 @@
 
 # Site settings
 title: Half Actor
-email: jutkko@gmail.com
+email: jutkko (at) gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This section is kinda important, I will come to this later.
 baseurl: "" # the subpath of your site, e.g. /blog
