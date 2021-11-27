@@ -34,7 +34,7 @@ this.
 - Wait a minute, I cycled to work more than 90% of the time for the past 11
 months! Who says I can't keep doing something.
 
-So, without further due, here is the First Post on this blog and this will
+So, without further ado, here is the First Post on this blog and this will
 finish the first project.
 
 {% highlight go %}
